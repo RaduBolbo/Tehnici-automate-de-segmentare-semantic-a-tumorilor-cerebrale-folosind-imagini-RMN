@@ -1,5 +1,7 @@
 # Tehnici-automate-de-segmentare-semantic-a-tumorilor-cerebrale-folosind-imagini-RMN
 
+Descrierea proiectului poate fi regasita [aici](https://drive.google.com/file/d/1x5_97LY8imy33-ej9Pg5gP1wZTdUU13h/view?usp=sharing).
+
 In interiorul proiectului se regasesc:
 
 1) directorul "core" - se refera la segmentarea BINARA si contine scripturile pentru antrenare, calculare a metricilor, testare, datalaoder, inferenta si arhitecturile retelelor (in subdirectorul networks_folder)
