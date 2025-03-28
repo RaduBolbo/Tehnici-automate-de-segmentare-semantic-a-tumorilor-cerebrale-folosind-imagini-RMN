@@ -11,7 +11,7 @@ In interiorul proiectului se regasesc:
 3) celelalte fisiere .py -> cu functii diverse, in principal de manipulare, vizualizare, analizare si preprocesare a datelor
 
   
-
+ 
 ![Page 1](images/BRATS-1.png)
 ![Page 1](images/BRATS-2.png)
 ![Page 1](images/BRATS-3.png)
