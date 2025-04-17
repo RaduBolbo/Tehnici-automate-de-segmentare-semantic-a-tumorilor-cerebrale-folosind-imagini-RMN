@@ -17,3 +17,4 @@ In interiorul proiectului se regasesc:
 ![Page 1](images/BRATS-3.png)
 ![Page 1](images/BRATS-4.png)
 
+
